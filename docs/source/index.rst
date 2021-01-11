@@ -15,7 +15,8 @@ Guide
 
 .. toctree::
    :maxdepth: 2
-
+   
+   includeme
    license
    help
    test
